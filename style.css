@@ -1,11 +1,9 @@
-@import url('https://fonts.cdnfonts.com/css/space-theme');
 
 * {
   background-color: black;
   opacity: 95%;
   color: white;
   text-align: center;
-  font-family: 'Space Theme';
 }
 
 
